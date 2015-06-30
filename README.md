@@ -35,6 +35,7 @@ Table of Contents
    * [STUN, WebRTC, Web Socket Servers and other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Issue tracking / Project management](#issue-tracking--project-management)
    * [Storage and Media Processing](#storage-and-media-processing)
+   * [Design & UI](https://github.com/mthjn/free-for-dev/blob/master/README.md#design--ui)
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [Package Build Systems](#package-build-systems)
    * [IDE and Code Editing](#ide-and-code-editing)
@@ -314,6 +315,7 @@ Table of Contents
 ## Issue tracking / Project management
 
    * https://www.pivotaltracker.com/community/public-projects - Pivotal Tracker. Free for public projects.
+   * https://www.bitrix24.com/ - Free intranet & project management tool
    * https://www.atlassian.com/opensource/overview - Free Jira etc for Open Source projects
    * https://kanbanflow.com/ - Board based project management. Free (premium version with more options).
    * https://kanbanpad.com/ - Board based project management. Free (premium version with more options).
@@ -347,7 +349,17 @@ Table of Contents
    * https://shrinkray.io - free image optimization of Github repos
    * https://www.cine.io - Scalable video broadcasting and p2p real-time video chat for iOS, Android, and web. Free tiers available for developers.
    * http://imagefly.io - Responsive images on-demand.  CDN-fronted image resizing, transcoding, and optimizing.  100 MB/month for free.
-
+     
+## Design & UI  
+  
+* [Codepen - Snippets](http://materialdesignblog.com/top-25-material-design-html-css-code-snippets-from-codepen/) - Top 25 Codepen Snippets for Material Design
+* [UI8](https://ui8.net/category/freebies) - Freebies at UI8 (mockups, icons, themes)
+* [Sketch](http://www.sketchappsources.com/all-free-sources.html) - Free design resources for SKETCH (but sometimes plain SVG too)
+* [Graphs Collection](https://www.materialup.com/collections/graphs-87b50f17-370d-4826-b9c1-cb072badd468) - Material Design graphs collection
+* [Materializer](https://gitlab.datatrends.es/opensource/materializer) - The most complete Material Design Framework
+* [Pixlr](http://pixlr.com) - Free online browser editor  
+* [CreativeCloudTrial](http://www.adobe.com/creativecloud/catalog/desktop.html?promoid=KSPAJ) - Free 30 day Trial on Adobe creative cloud (Illustrator, Photoshop, After Effects ...) You get 30 days of a program being installed, if you uninstall the program after having used it the countdown pauses.  
+  
 ## Data Visualization on Maps
 
    * http://geocod.io - Geocoding via API or CSV Upload. 2.500 free queries per day.
